@@ -16,17 +16,23 @@ Git & GitHub
 Basic JavaScript (learning)
 📌 Featured Projects
 
+
 📊 Dashboard Project
 
 A responsive dashboard with statistics and tables.
 🔗 https://github.com/emanfrontend/eman-landing-page
 🔗 https://emanfrontend.github.io/eman-landing-page/
 
+----------------------------------------
+
 🌐 Landing Page Project
 
 A modern landing page built using HTML & CSS.
 
 🔗 https://github.com/emanfrontend/simple-landing-page.git
+🔗 https://emanfrontend.github.io/simple-landing-page/
+
+-----------------------------------------
 
 ☕ Cafe Website
 
@@ -34,6 +40,8 @@ A responsive coffee shop website built using HTML & CSS.
 
 🔗 https://github.com/emanfrontend/coffee-shop-website
 🔗 https://emanfrontend.github.io/coffee-shop-website/
+
+------------------------------------------
 
 📫 Contact Me
 
