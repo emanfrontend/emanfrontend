@@ -16,6 +16,7 @@ Git & GitHub
 Basic JavaScript (learning)
 📌 Featured Projects
 
+--------------------------------------
 
 📊 Dashboard Project
 
