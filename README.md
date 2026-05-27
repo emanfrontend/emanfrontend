@@ -28,6 +28,12 @@ A modern landing page built using HTML & CSS.
 
 🔗 https://github.com/emanfrontend/simple-landing-page.git
 
+☕ Cafe Website
+
+A responsive coffee shop website built using HTML & CSS.
+
+🔗 https://github.com/emanfrontend/coffee-shop-website
+
 📫 Contact Me
 
 🔗 GitHub: https://github.com/emanfrontend WhatsApp: https://wa.me/01208657843
