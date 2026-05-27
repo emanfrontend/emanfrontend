@@ -33,6 +33,7 @@ A modern landing page built using HTML & CSS.
 A responsive coffee shop website built using HTML & CSS.
 
 🔗 https://github.com/emanfrontend/coffee-shop-website
+🔗 https://emanfrontend.github.io/coffee-shop-website/
 
 📫 Contact Me
 
