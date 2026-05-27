@@ -1,6 +1,6 @@
 👋 Hi, I'm Eman
 
-💻 Front-End Developer (Beginner) I build clean and responsive websites using HTML & CSS.
+💻 Front-End Developer I build clean and responsive websites using HTML & CSS.
 
 🚀 About Me
 
