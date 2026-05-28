@@ -57,7 +57,7 @@ A modern Avatar landing page built using HTML & CSS.
 
 ---------------------------------------------
 
-✨ neon contact form
+✨ Neon Contact Form
 
 A neon-style responsive contact form built using HTML and CSS.
 
