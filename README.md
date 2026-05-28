@@ -47,7 +47,7 @@ A responsive coffee shop website built using HTML & CSS.
 
 ------------------------------------------
 
-Avatar landing page
+🎨 Avatar landing page
 
 A modern Avatar landing page built using HTML & CSS.
 
