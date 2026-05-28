@@ -24,6 +24,7 @@ Basic JavaScript (learning)
 📊 Dashboard Project
 
 A responsive dashboard with statistics and tables.
+
 🔗 https://github.com/emanfrontend/eman-landing-page
 🔗 https://emanfrontend.github.io/eman-landing-page/
 
