@@ -50,7 +50,7 @@ A responsive coffee shop website built using HTML & CSS.
 Avatar landing page
 
 A modern Avatar landing page built using HTML & CSS.
-
+🔗 https://github.com/emanfrontend/avatar-landing-page
 
 📫 Contact Me
 
