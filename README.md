@@ -5,8 +5,11 @@
 🚀 About Me
 
 🎯 Passionate about web development
+
 📚 Currently learning Front-End Development
+
 💡 Love building simple UI projects
+
 🌱 Always improving my skills
 🛠️ Skills
 
