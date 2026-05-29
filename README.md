@@ -68,7 +68,8 @@ A neon-style responsive contact form built using HTML and CSS.
 📫 Contact Me
 
 🔗 GitHub: https://github.com/emanfrontend
-    WhatsApp: https://wa.me/01208657843
+
+  🔗 WhatsApp: https://wa.me/01208657843
 🔗 portfolio: https://emanfrontend.github.io/portfolio/
 
 ⭐ Thanks for visiting my profile
